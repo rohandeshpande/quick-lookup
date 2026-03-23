@@ -1,4 +1,4 @@
-# Go coding interview reference
+# Go coding reference
 
 ## 1. Arrays / Slices
 
