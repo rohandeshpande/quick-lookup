@@ -1485,7 +1485,7 @@ for l <= r {
 return -1
 ```
 
-# What to revise first for interviews
+# What to revise first
 
 For best return, master these first:
 
